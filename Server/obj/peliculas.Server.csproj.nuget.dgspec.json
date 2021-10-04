@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProysCicloIII\\peliculas\\Server\\peliculas.Server.csproj": {}
+    "C:\\Users\\jaime\\Desktop\\Peliculas\\Server\\peliculas.Server.csproj": {}
   },
   "projects": {
-    "C:\\ProysCicloIII\\peliculas\\Client\\peliculas.Client.csproj": {
+    "C:\\Users\\jaime\\Desktop\\Peliculas\\Client\\peliculas.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProysCicloIII\\peliculas\\Client\\peliculas.Client.csproj",
+        "projectUniqueName": "C:\\Users\\jaime\\Desktop\\Peliculas\\Client\\peliculas.Client.csproj",
         "projectName": "peliculas.Client",
-        "projectPath": "C:\\ProysCicloIII\\peliculas\\Client\\peliculas.Client.csproj",
+        "projectPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Client\\peliculas.Client.csproj",
         "packagesPath": "C:\\Users\\jaime\\.nuget\\packages\\",
-        "outputPath": "C:\\ProysCicloIII\\peliculas\\Client\\obj\\",
+        "outputPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaime\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\ProysCicloIII\\peliculas\\Shared\\peliculas.Shared.csproj": {
-                "projectPath": "C:\\ProysCicloIII\\peliculas\\Shared\\peliculas.Shared.csproj"
+              "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\peliculas.Shared.csproj": {
+                "projectPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\peliculas.Shared.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\ProysCicloIII\\peliculas\\Server\\peliculas.Server.csproj": {
+    "C:\\Users\\jaime\\Desktop\\Peliculas\\Server\\peliculas.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProysCicloIII\\peliculas\\Server\\peliculas.Server.csproj",
+        "projectUniqueName": "C:\\Users\\jaime\\Desktop\\Peliculas\\Server\\peliculas.Server.csproj",
         "projectName": "peliculas.Server",
-        "projectPath": "C:\\ProysCicloIII\\peliculas\\Server\\peliculas.Server.csproj",
+        "projectPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Server\\peliculas.Server.csproj",
         "packagesPath": "C:\\Users\\jaime\\.nuget\\packages\\",
-        "outputPath": "C:\\ProysCicloIII\\peliculas\\Server\\obj\\",
+        "outputPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaime\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -108,11 +108,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\ProysCicloIII\\peliculas\\Client\\peliculas.Client.csproj": {
-                "projectPath": "C:\\ProysCicloIII\\peliculas\\Client\\peliculas.Client.csproj"
+              "C:\\Users\\jaime\\Desktop\\Peliculas\\Client\\peliculas.Client.csproj": {
+                "projectPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Client\\peliculas.Client.csproj"
               },
-              "C:\\ProysCicloIII\\peliculas\\Shared\\peliculas.Shared.csproj": {
-                "projectPath": "C:\\ProysCicloIII\\peliculas\\Shared\\peliculas.Shared.csproj"
+              "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\peliculas.Shared.csproj": {
+                "projectPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\peliculas.Shared.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\ProysCicloIII\\peliculas\\Shared\\peliculas.Shared.csproj": {
+    "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\peliculas.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProysCicloIII\\peliculas\\Shared\\peliculas.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\peliculas.Shared.csproj",
         "projectName": "peliculas.Shared",
-        "projectPath": "C:\\ProysCicloIII\\peliculas\\Shared\\peliculas.Shared.csproj",
+        "projectPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\peliculas.Shared.csproj",
         "packagesPath": "C:\\Users\\jaime\\.nuget\\packages\\",
-        "outputPath": "C:\\ProysCicloIII\\peliculas\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaime\\AppData\\Roaming\\NuGet\\NuGet.Config"

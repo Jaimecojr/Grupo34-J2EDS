@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ND+bVhROUdD5WX9ZaMLGOyf03W5AbgRRNwgdH7BapDyB8D6YFA7y6evw2cDFmba3d+gW7urRs+l5apgvucaW9Q==",
+  "dgSpecHash": "O2RtvOc16VJsTWx8b9qTelE8dRFOuj4mD+X7AemvMBzzlHPF/gY+li/addrq3gJHNuIZNYT4sVs1fzeoSDScBQ==",
   "success": true,
-  "projectFilePath": "C:\\ProysCicloIII\\peliculas\\Client\\peliculas.Client.csproj",
+  "projectFilePath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Client\\peliculas.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaime\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.10\\microsoft.aspnetcore.authorization.5.0.10.nupkg.sha512",
     "C:\\Users\\jaime\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.10\\microsoft.aspnetcore.components.5.0.10.nupkg.sha512",

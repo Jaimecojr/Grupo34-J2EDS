@@ -1,0 +1,21 @@
+@page "/categories/edit/{Id:int}"
+@using peliculas.Client.Pages.Components
+
+<FormCategory OnValidSubmit= "Edit" Category = "Category" ></FormCategory>
+
+@code {
+    [Parameter] public int Id {get;set;}
+    private Category Category;
+
+    protected override void OnInitialized(){
+        Category = new Category(){
+            IdCategory = Id,
+            NameCategory= "Comedia"
+        };
+    }
+
+    private void Edit(){
+        Console.WriteLine($"Id: {Category.IdCategory}");
+        Console.WriteLine($"Id: {Category.NameCategory}");
+    }
+}

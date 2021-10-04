@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProysCicloIII\\peliculas\\Shared\\peliculas.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\peliculas.Shared.csproj",
       "projectName": "peliculas.Shared",
-      "projectPath": "C:\\ProysCicloIII\\peliculas\\Shared\\peliculas.Shared.csproj",
+      "projectPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\peliculas.Shared.csproj",
       "packagesPath": "C:\\Users\\jaime\\.nuget\\packages\\",
-      "outputPath": "C:\\ProysCicloIII\\peliculas\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaime\\AppData\\Roaming\\NuGet\\NuGet.Config"

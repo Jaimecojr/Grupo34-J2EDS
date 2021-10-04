@@ -1,0 +1,11 @@
+@page "/actors/create"
+@using peliculas.Client.Pages.Components
+
+<FormActors OnValidSubmit= "Create" Actor= "Actor"></FormActors>
+
+@code{
+    private Actor Actor = new Actor();
+    void Create(){
+        Console.WriteLine("");
+    }
+}
