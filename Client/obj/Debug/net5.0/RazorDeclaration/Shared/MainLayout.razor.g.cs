@@ -96,6 +96,13 @@ using Peliculas.Client.Services;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\jaime\Desktop\Peliculas\Client\Shared\MainLayout.razor"
+using peliculas.Client.Pages;
+
+#line default
+#line hidden
+#nullable disable
     public partial class MainLayout : LayoutComponentBase
     {
         #pragma warning disable 1998

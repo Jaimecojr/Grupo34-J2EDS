@@ -1290,3 +1290,13 @@ C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\RazorDeclaration\Pages\
 C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\Razor\Pages\Components\FormActors.razor.g.cs
 C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\ImgComponent.razor.g.cs
 C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\Razor\Pages\Components\ImgComponent.razor.g.cs
+C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories\ShowCategory.razor.g.cs
+C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\Razor\Pages\Categories\ShowCategory.razor.g.cs
+C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\FormLogin.razor.g.cs
+C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\Razor\Pages\Components\FormLogin.razor.g.cs
+C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\FormRegister.razor.g.cs
+C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\Razor\Pages\Components\FormRegister.razor.g.cs
+C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Register.razor.g.cs
+C:\Users\jaime\Desktop\Peliculas\Client\obj\Debug\net5.0\Razor\Pages\Register.razor.g.cs

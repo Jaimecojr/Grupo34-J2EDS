@@ -1,0 +1,11 @@
+@page "/register"
+@using peliculas.Client.Pages.Components
+
+<FormRegister OnValidSubmit= "Iniciar" User= "User"></FormRegister>
+
+@code{
+    private User User = new User();
+    void Iniciar(){
+        Console.WriteLine("");
+    }
+}

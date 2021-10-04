@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="jumbotron">
+        <h2>Entrar a tu cuenta</h2>
+        <p>
+            Para poder editar y valorar en <b>PELICULAS</b>, así como para obtener recomendaciones personales, deberás acceder con tu cuenta. Si no tienes una, registrarse para obtenerla es gratis y simple. <a href="register">Pulsa aquí </a>para empezar.
+        </p>
+        <EditForm Model = "User" OnValidSubmit="OnValidSubmit">
+            <DataAnnotationsValidator></DataAnnotationsValidator>
+            <div class="form-group">
+                <label>Correo</label>
+                <InputText type="email" class="form-control"  @bind-Value="@User.EmailUser" placeholder="Ingresa email"></InputText>
+                <ValidationMessage For="@(()=>User.EmailUser)"></ValidationMessage>
+            </div>
+            <div class="form-group">
+                <label>Contraseña</label>
+                <InputText type="password"  @bind-Value="@User.PasswordUser" class="form-control" placeholder="Contraseña"></InputText>
+                <ValidationMessage For="@(()=>User.PasswordUser)"></ValidationMessage>
+            </div>
+            <button type="submit" class="btn btn-primary">Iniciar Sesion</button>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    [Parameter] public User User {get;set;}
+    [Parameter] public EventCallback OnValidSubmit {get;set;}
+} 
