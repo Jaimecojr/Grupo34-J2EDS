@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jaime\\.nuget\\packages\\": {}
+    "C:\\Users\\esteb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\peliculas.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Peliculas\\Shared\\peliculas.Shared.csproj",
       "projectName": "peliculas.Shared",
-      "projectPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\peliculas.Shared.csproj",
-      "packagesPath": "C:\\Users\\jaime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaime\\Desktop\\Peliculas\\Shared\\obj\\",
+      "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Peliculas\\Shared\\peliculas.Shared.csproj",
+      "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Peliculas\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jaime\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\esteb\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -25,6 +25,7 @@ namespace peliculas.Client
 
         private static void ConfigureServices(IServiceCollection services){
             services.AddSingleton<IServiceActor, ServiceActor>();
+            services.AddSingleton<IServiceMovie, ServiceMovie>();
         }
     }
 }

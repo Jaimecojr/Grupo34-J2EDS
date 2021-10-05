@@ -22,3 +22,15 @@ C:\Users\jaime\Desktop\Peliculas\Shared\bin\Debug\net5.0\peliculas.Shared.deps.j
 C:\Users\jaime\Desktop\Peliculas\Shared\bin\Debug\net5.0\peliculas.Shared.dll
 C:\Users\jaime\Desktop\Peliculas\Shared\bin\Debug\net5.0\ref\peliculas.Shared.dll
 C:\Users\jaime\Desktop\Peliculas\Shared\bin\Debug\net5.0\peliculas.Shared.pdb
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\bin\Debug\net5.0\peliculas.Shared.deps.json
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\bin\Debug\net5.0\peliculas.Shared.dll
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\bin\Debug\net5.0\ref\peliculas.Shared.dll
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\bin\Debug\net5.0\peliculas.Shared.pdb
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\obj\Debug\net5.0\peliculas.Shared.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\obj\Debug\net5.0\peliculas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\obj\Debug\net5.0\peliculas.Shared.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\obj\Debug\net5.0\peliculas.Shared.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\obj\Debug\net5.0\peliculas.Shared.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\obj\Debug\net5.0\peliculas.Shared.dll
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\obj\Debug\net5.0\ref\peliculas.Shared.dll
+C:\Users\esteb\OneDrive\Escritorio\Peliculas\Shared\obj\Debug\net5.0\peliculas.Shared.pdb
